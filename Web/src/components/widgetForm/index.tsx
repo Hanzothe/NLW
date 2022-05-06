@@ -4,7 +4,7 @@ import ideaImageUrl from "../../assets/idea.png";
 import otherImageUrl from "../../assets/other.png";
 import { useState } from "react";
 import { Key } from "phosphor-react";
-import { FeedBackTypeStep } from "./steps/feedbacktypestep";
+import { FeedBackTypeStep } from "./steps/FeedbackTypeStep";
 import { FeedBackContentStep } from "./steps/FeedbackContentStep";
 
 export const feedbackTypes = {
